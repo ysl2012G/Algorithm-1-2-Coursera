@@ -1,0 +1,63 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KdTree<Kd-Trees>",
+            "request": "launch",
+            "mainClass": "KdTree",
+            "projectName": "Kd-Trees",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KdTreeGenerator<Kd-Trees>",
+            "request": "launch",
+            "mainClass": "KdTreeGenerator",
+            "projectName": "Kd-Trees",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KdTreeVisualizer<Kd-Trees>",
+            "request": "launch",
+            "mainClass": "KdTreeVisualizer",
+            "projectName": "Kd-Trees",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NearestNeighborVisualizer<Kd-Trees>",
+            "request": "launch",
+            "mainClass": "NearestNeighborVisualizer",
+            "projectName": "Kd-Trees",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PointSET<Kd-Trees>",
+            "request": "launch",
+            "mainClass": "PointSET",
+            "projectName": "Kd-Trees",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RangeSearchVisualizer<Kd-Trees>",
+            "request": "launch",
+            "mainClass": "RangeSearchVisualizer",
+            "projectName": "Kd-Trees",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Attach)",
+            "request": "attach",
+            "hostName": "localhost",
+            "port": 0
+        }
+    ]
+}
